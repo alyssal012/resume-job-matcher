@@ -1,0 +1,16 @@
+Data Science Intern, Summer 2027 (fictional example posting)
+
+About the role
+You'll work with our product analytics team to build models and run experiments that shape how millions of customers shop.
+
+Requirements
+- Pursuing a degree in data science, statistics, computer science or a related field
+- Strong Python and SQL
+- Experience with machine learning libraries such as scikit-learn
+- Solid foundation in statistics and A/B testing
+- Clear communication with non-technical stakeholders
+
+Nice to have
+- Experience with LLMs or retrieval-augmented generation
+- Docker or cloud platforms (AWS, GCP)
+- Data visualization with Tableau

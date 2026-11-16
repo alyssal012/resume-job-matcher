@@ -1,0 +1,19 @@
+Jordan Rivera (fictional example)
+B.S. Data Science, State University, 2028
+
+EXPERIENCE
+Data Analyst Intern, Midtown Grocers
+- Built a weekly sales forecasting model in Python (pandas, sklearn) covering 40 stores, cutting overstock by 12%
+- Wrote SQL queries against a Postgres warehouse to automate the Monday sales report
+- Presented findings to regional managers
+
+Research Assistant, Psychology Lab
+- Ran hypothesis tests and regression analysis on survey data from 600 participants
+- Cleaned and documented the lab's shared datasets
+
+PROJECTS
+- Movie review sentiment classifier using a neural network in PyTorch (88% accuracy)
+- Personal finance dashboard with Plotly
+
+SKILLS
+Python, SQL, pandas, NumPy, scikit-learn, PyTorch, Git, Excel, Tableau
